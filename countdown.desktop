@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Countdown Overlay
+Exec=countdown
+Icon=countdown
+Categories=Utility;
