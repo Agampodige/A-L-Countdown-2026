@@ -1,7 +1,9 @@
-
+![](countdown.png)
 # Exam Countdown Overlay ⏳
 
 A simple, always-on-top overlay application to track the time remaining until your Sri Lankan G.C.E. Advanced Level (A/L) exam on August 10, 2026. This application is built with Python and PyQt6.
+
+![](image.png)
 
 ## ✨ Features
 
